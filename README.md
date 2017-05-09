@@ -28,7 +28,7 @@ https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanh
 - view，以声明方式将state映射到视图；
 - actions，响应在view上的用户输入导致的状态变化。
 ---
-![](https://vuex.vuejs.org/zh-cn/images/flow.png =200x)
+![](https://vuex.vuejs.org/zh-cn/images/flow.png)
 
 ## 6.组件共享状态
 - 多个视图依赖于同一状态。
